@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: catalogoue
+  name: catalogue
   namespace: roboshop
   labels:
     component: catalogue
